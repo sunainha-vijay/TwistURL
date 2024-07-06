@@ -1,9 +1,0 @@
-name = "ccextractor"
-main = 'index.js'
-usage_model = 'bundled'
-compatibility_flags = []
-workers_dev = true
-compatibility_date = "2021-10-10"
-kv_namespaces = [
-  { binding = "TwistURL", id = "52f67d01c323499989e0f866ce60cb16",
-]
